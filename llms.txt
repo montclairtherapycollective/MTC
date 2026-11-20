@@ -1,0 +1,23 @@
+# Montclair Therapy Collective
+
+> A community of psychotherapists and allied professionals in and around Montclair, New Jersey, founded in 2022 by Dr. Jennifer Joseph, PsyD, CGP. Networking nights, workshops (continuing education credits coming soon) and small groups, so the people clinicians refer to become people they know. A clinician directory is in the works.
+
+Site: https://montclairtherapycollective.com
+Contact: montclairtherapycollective@gmail.com
+Location: 96 Park St, Montclair, NJ 07042
+
+## Pages
+- Home: https://montclairtherapycollective.com/
+- Events (pulled from the MTC Luma calendar): https://montclairtherapycollective.com/events/
+- Networking nights: https://montclairtherapycollective.com/networking-nights/
+- Workshops: https://montclairtherapycollective.com/workshops/
+- Small groups: https://montclairtherapycollective.com/small-groups/
+- About Dr. Jennifer Joseph and MTC: https://montclairtherapycollective.com/about/
+- Get listed in the coming directory: https://montclairtherapycollective.com/get-listed/
+- Present a workshop: https://montclairtherapycollective.com/present/
+- Contact: https://montclairtherapycollective.com/contact/
+
+## Facts
+- Who it is for: psychotherapists, psychologists, social workers, counselors and allied professionals practicing in or near Montclair, NJ.
+- Events are listed and ticketed on Luma: https://luma.com/calendar/cal-mo9ZiCFFgd3Eo5t
+- MTC does not provide therapy itself. People looking for a therapist can use the directory once it opens.

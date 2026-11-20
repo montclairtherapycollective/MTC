@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /directory/
+
+Sitemap: https://montclairtherapycollective.com/sitemap.xml
